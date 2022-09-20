@@ -9,5 +9,5 @@ The goal is to perform an analysis and also create visual tools to communicate t
   <li>DataSet in Query mode</li>
   <li>Summary Statistics for IT sector</li>
   <li>Caculation for Profit and Lose (P&L) statement for each company across 4 years</li>
-  <li>Forcasting 3 cases: Base case,Weak case,and Best case</li>
+  <li>Forcasting 2 Years based on 4 years historical data on 3 cases: Base case,Weak case,and Best case</li>
 </ul>
